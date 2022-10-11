@@ -4,4 +4,8 @@ This is rebasefile example
 -- please subscribe
 
 -- This is change on git Gub to show Merge
+ test
+count a =100;
+=======
 var b=100;
+master
