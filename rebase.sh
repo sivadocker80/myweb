@@ -4,3 +4,4 @@ This is rebasefile example
 -- please subscribe
 
 -- This is change on git Gub to show Merge
+var b=100;
