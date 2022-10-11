@@ -9,3 +9,6 @@ S3
 ALB
 NLB
 CLB
+NAT
+NAT GW
+Transed gatway
